@@ -1,25 +1,20 @@
 //typs:::Low:::High:::Critical:::Hot:::
-
 <SVELIST="1.0">
-
 <SVE><id>SVE-2019-22092325</id><Severity>Critical</Severity><type>Intent Scheme Hijacking</type><version>?-1.0.4.9</type><state>fixed</state></SVE>
 <SVE><id>SVE-2019-15071319</id><Severity>Low</Severity><type>tab_cache</type><version>0.83-0.84</type><state>fixed</state></SVE>
 <SVE><id>SVE-2019-12081946</id><Severity>Hot</Severity><type>SSL Error Handler</type><version>1.0 and lower</type><state>fixed</state></SVE>
-
 </SVELIST>
-
-
-License:
-Copyright 2020 Marcel Bohland
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+//License:
+//Copyright 2020 Marcel Bohland
+//
+//   Licensed under the Apache License, Version 2.0 (the "License");
+//   you may not use this file except in compliance with the License.
+//   You may obtain a copy of the License at
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+//   Unless required by applicable law or agreed to in writing, software
+//  distributed under the License is distributed on an "AS IS" BASIS,
+//   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//   See the License for the specific language governing permissions and
+//   limitations under the License.
