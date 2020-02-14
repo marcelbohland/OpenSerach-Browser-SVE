@@ -1,6 +1,5 @@
 //typs:::Low:::High:::Critical:::Hot:::
 <SVELIST="1.0">
-<SVE><id>SVE-2019-22092325</id><Severity>Critical</Severity><type>Intent Scheme Hijacking</type><version>?-1.0.4.9</type><state>fixed</state></SVE>
 <SVE><id>SVE-2019-15071319</id><Severity>Low</Severity><type>tab_cache</type><version>0.83-0.84</type><state>fixed</state></SVE>
 <SVE><id>SVE-2019-12081946</id><Severity>Hot</Severity><type>SSL Error Handler</type><version>1.0 and lower</type><state>fixed</state></SVE>
 </SVELIST>
