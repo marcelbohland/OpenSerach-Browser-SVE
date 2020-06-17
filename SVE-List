@@ -17,3 +17,24 @@
 //   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 //   See the License for the specific language governing permissions and
 //   limitations under the License.
+
+Old Buglist:
+
+Buglist-------------------------------------------------------------------
+BUG-058526
+video full screen Fehler/Tastatur lässt sich auf Website nicht mehr öffnen
+
+BUG-794685
+App absturz im Querformat homescreen
+
+BUG-348923
+Welcome Screen UI fix
+
+BUG-784534
+History fehler/wird nicht erstellt
+
+BUG-861340
+Verlauf löschen darkmode Fehler
+
+BUG-893629
+Shortcut Fehler
