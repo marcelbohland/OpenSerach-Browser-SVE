@@ -1,2 +1,2 @@
-# OpenSerach-Browser-CVE/SVE
+# OpenSerach-Browser-CVE/SVE/Buglist
 
